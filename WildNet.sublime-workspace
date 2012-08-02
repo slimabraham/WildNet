@@ -1,0 +1,297 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Documents and Settings/tmiddlecote/My Documents/Downloads/umbra.xml",
+			"settings":
+			{
+				"buffer_size": 23918,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Documents and Settings/tmiddlecote/Desktop/ecardplugin1.1.5-b/ecardplugin1.1.5-b/_manual.txt",
+			"settings":
+			{
+				"buffer_size": 386,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Documents and Settings/tmiddlecote/Desktop/ecardplugin1.1.5-b/ecardplugin1.1.5-b/web_example/installation web_example.txt",
+			"settings":
+			{
+				"buffer_size": 1333,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"snip",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Convert Case: Lower Case"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Documents and Settings/tmiddlecote/Desktop/access.log",
+		"/C/Documents and Settings/tmiddlecote/Desktop/error.log",
+		"/C/Documents and Settings/tmiddlecote/Desktop/ecard_files_mikes/ecard_files/ecard.php",
+		"/C/Documents and Settings/tmiddlecote/Desktop/ecard_files_mikes/ecard_files/ecard_manageemail.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ecard",
+			"ecarad",
+			"www.wildlifetrusts.mikemcfarlane.co.uk",
+			"tim"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"wt360s.wildlifetrusts.com"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Documents and Settings/tmiddlecote/My Documents/Downloads/umbra.xml",
+					"settings":
+					{
+						"buffer_size": 23918,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6747,
+								6752
+							],
+							[
+								7087,
+								7092
+							],
+							[
+								7175,
+								7180
+							],
+							[
+								7187,
+								7192
+							],
+							[
+								7731,
+								7736
+							],
+							[
+								7742,
+								7747
+							],
+							[
+								7767,
+								7772
+							],
+							[
+								7840,
+								7845
+							],
+							[
+								7851,
+								7856
+							],
+							[
+								7876,
+								7881
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 969.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Documents and Settings/tmiddlecote/Desktop/ecardplugin1.1.5-b/ecardplugin1.1.5-b/_manual.txt",
+					"settings":
+					{
+						"buffer_size": 386,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								386,
+								386
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Documents and Settings/tmiddlecote/Desktop/ecardplugin1.1.5-b/ecardplugin1.1.5-b/web_example/installation web_example.txt",
+					"settings":
+					{
+						"buffer_size": 1333,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								259,
+								61
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 194.0,
+	"status_bar_visible": true
+}
